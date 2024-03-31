@@ -1,0 +1,41 @@
+* {
+    background-color: var(--Eggshell);
+}
+
+body {
+    width: 50%;
+    margin: 20px auto;
+    background-color: var(--White);
+    border-radius: 10px;
+}
+
+#topImg {
+    width: 80%;
+    margin: 0 auto;
+    background-color: var(--White);
+}
+
+#heroImg {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#topMargin {
+    height: 20px;
+    background-color: var(--White);
+    border-radius: 10px;
+}
+
+section *, footer * {
+    background-color: var(--White);
+}
+
+footer {
+    padding-bottom: 20px;
+    background-color: var(--White);
+}
+
+#prepTime, #prepTime * {
+    background-color: rgb(240, 188, 188);
+}
