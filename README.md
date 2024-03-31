@@ -4,17 +4,17 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
-- [Overview]
-  - [The challenge]
-  - [Screenshot]
-  - [Links]
-- [My process]
-  - [Built with]
-  - [What I learned]
-  - [Continued development]
-  - [Useful resources]
-- [Author]
-- [Acknowledgments]
+- Overview
+  - The challenge
+  - Screenshot
+  - Links
+- My process
+  - Built with
+  - What I learned
+  - Continued development
+  - Useful resources
+- Author
+- Acknowledgments
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -23,10 +23,10 @@ This is a frontend project that aims to develop and implement the design of a mo
 
 ### Screenshot
 
-![](./assets/images/Live-Mobile-Preview.png)
+![Mobile Preview](https://github.com/Bryanik/Simple-Omelette-Recipe/blob/main/assets/images/Live-Mobile-Preview.png)
 
 
-![](./assets/images/Live-Desktop-Preview.png)
+![Desktop Preview](https://github.com/Bryanik/Simple-Omelette-Recipe/blob/main/assets/images/Live-Desktop-Preview.png)
 
 ### Links
 
