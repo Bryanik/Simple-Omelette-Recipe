@@ -26,7 +26,7 @@ This is a frontend project that aims to develop and implement the design of a mo
 ### Links
 
 - Solution URL: [Simple Omelette Recipe](https://github.com/Bryanik/Simple-Omelette-Recipe.git)
-- Live Site URL: [Simple Omelette Recipe](####################)
+- Live Site URL: [Simple Omelette Recipe](https://simple-omelette-recipe-six.vercel.app/)
 
 ## My process
 
